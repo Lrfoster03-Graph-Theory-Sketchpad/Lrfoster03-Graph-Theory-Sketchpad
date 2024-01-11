@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Lrfoster03-Graph-Theory-Sketchpad.github.io/Lrfoster03-Graph-Theory-Sketchpad/static/css/main.c8399669.css",
-    "main.js": "/Lrfoster03-Graph-Theory-Sketchpad.github.io/Lrfoster03-Graph-Theory-Sketchpad/static/js/main.179cb55d.js",
-    "static/js/496.e4d814b1.chunk.js": "/Lrfoster03-Graph-Theory-Sketchpad.github.io/Lrfoster03-Graph-Theory-Sketchpad/static/js/496.e4d814b1.chunk.js",
-    "index.html": "/Lrfoster03-Graph-Theory-Sketchpad.github.io/Lrfoster03-Graph-Theory-Sketchpad/index.html",
-    "main.c8399669.css.map": "/Lrfoster03-Graph-Theory-Sketchpad.github.io/Lrfoster03-Graph-Theory-Sketchpad/static/css/main.c8399669.css.map",
-    "main.179cb55d.js.map": "/Lrfoster03-Graph-Theory-Sketchpad.github.io/Lrfoster03-Graph-Theory-Sketchpad/static/js/main.179cb55d.js.map",
-    "496.e4d814b1.chunk.js.map": "/Lrfoster03-Graph-Theory-Sketchpad.github.io/Lrfoster03-Graph-Theory-Sketchpad/static/js/496.e4d814b1.chunk.js.map"
+    "main.css": "/Lrfoster03-Graph-Theory-Sketchpad/static/css/main.c8399669.css",
+    "main.js": "/Lrfoster03-Graph-Theory-Sketchpad/static/js/main.8ed4c43d.js",
+    "static/js/496.e4d814b1.chunk.js": "/Lrfoster03-Graph-Theory-Sketchpad/static/js/496.e4d814b1.chunk.js",
+    "index.html": "/Lrfoster03-Graph-Theory-Sketchpad/index.html",
+    "main.c8399669.css.map": "/Lrfoster03-Graph-Theory-Sketchpad/static/css/main.c8399669.css.map",
+    "main.8ed4c43d.js.map": "/Lrfoster03-Graph-Theory-Sketchpad/static/js/main.8ed4c43d.js.map",
+    "496.e4d814b1.chunk.js.map": "/Lrfoster03-Graph-Theory-Sketchpad/static/js/496.e4d814b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8399669.css",
-    "static/js/main.179cb55d.js"
+    "static/js/main.8ed4c43d.js"
   ]
 }
